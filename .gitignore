@@ -1,0 +1,15 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.aux
+*.md
+*.Rproj
+*.o
+*.so
+*.log
+*.toc
+!README.md
+*_files/
+*_cache/
+/.quarto/
